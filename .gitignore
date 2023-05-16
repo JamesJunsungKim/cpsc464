@@ -1,0 +1,7 @@
+/front/node_modules/*
+/front/.idea/*
+
+/backend/venv/*
+/backend/.idea/*
+
+.idea/*
